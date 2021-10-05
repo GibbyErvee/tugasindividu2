@@ -1,0 +1,27 @@
+.kursi {
+    color: white;
+    background: orange;
+    padding: 5px;
+}
+#sambutan {
+    text-align: center
+
+}
+ 
+#dataformuser{
+    margin: auto;
+    width: 50%;
+    border: 5px solid black;
+    padding: 10px;
+}
+#dataformuser form{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  
+
+}
+html{
+    background-color: gold;
+}
+
